@@ -9,6 +9,26 @@
     width: 8.33333333%;
   }
 
+.col-2 {
+    float: left;
+    width: 16.6666666%;
+  }
+
+.col-3 {
+    float: left;
+    width: 25%;
+  }
+
+  .col-4 {
+    float: left;
+    width: 33.3333333%;
+  }
+
+  .col-5 {
+    float: left;
+    width: 50%;
+  }
+
   .row:before {
     display: table;
     content: "";
