@@ -3,9 +3,20 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
   }
-  
+
 .col-1 {
     float: left;
     width: 8.33333333%;
   }
+
+  .row:before {
+    display: table;
+    content: "";
+  }
+  
+  .row:after {
+    display: table;
+    content: "";
+    clear: both;
+  } 
 
