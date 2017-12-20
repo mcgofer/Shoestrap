@@ -24,10 +24,76 @@
     width: 33.3333333%;
   }
 
-  .col-5 {
+  .col-5a {
+    float: left;
+    width: 41.6666666%;
+  }
+
+  .col-5b {
+    float: left;
+    width: 41.6666666%;
+  }
+
+  .col-5c {
+    float: left;
+    width: 16.3333333%;
+  }
+
+  .col-6 {
     float: left;
     width: 50%;
   }
+
+  .col-7a {
+    float: left;
+    width: 58.3333333%;
+  }
+
+  .col-7b {
+    float: left;
+    width: 41.6666666%;
+  }
+
+  .col-8a {
+    float: left;
+    width: 66.6666666%;
+  }
+
+  .col-8b {
+    float: left;
+    width: 33.3333333%;
+  }
+
+  .col-9a {
+    float: left;
+    width: 75%;
+  }
+
+  .col-9b {
+    float: left;
+    width: 25%;
+  }
+
+  .col-10a {
+    float: left;
+    width: 83.333333%;
+  }
+
+  .col-10b {
+    float: left;
+    width: 16.666666%;
+  }
+
+  .col-11a {
+    float: left;
+    width: 91.666666%;
+  }
+
+  .col-11b {
+    float: left;
+    width: 8.3333333%;
+  }
+
 
   .row:before {
     display: table;
